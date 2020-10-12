@@ -1,10 +1,6 @@
 # Cursos-Platzi
 
 Cursos aprobados y con certificaciones:
-
-Diseños de interfaces (UI):
-  - Curso de Fundamentos de Diseño de Interfaces UI y UX.
-  - Curso de Ilustrador.
   
 Arquitectura Frontend:
   - Curso de Css Grid Layout.
@@ -12,3 +8,7 @@ Arquitectura Frontend:
  
 Escuela de JavaScript
   - Curos Basico de JavaScript
+
+Diseños de interfaces (UI):
+  - Curso de Fundamentos de Diseño de Interfaces UI y UX.
+  - Curso de Ilustrador.
