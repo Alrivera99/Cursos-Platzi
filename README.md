@@ -7,5 +7,8 @@ Arquitectura Frontend:
   - Curso de Introduccion a SEO: Posicionamiento en Buscadores.
  
 Escuela de JavaScript
-  - Curos Basico de JavaScript
+  - Curso Basico de JavaScript
 
+Diseños de Interfaces (UI)
+  - Curso de Fundamentos de Diseños de Interfaces UI y UX
+  - Curso de Ilustrador
